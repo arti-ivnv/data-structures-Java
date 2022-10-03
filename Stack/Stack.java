@@ -1,4 +1,5 @@
-// Basic Stack util !
+// Basic Stack utill !
+// TODO: Some possible applications to try: In compiler arithmetic, URL manager, word reverser
 // TODO: Modify to fancy one that works with Generics
 
 class Stack {
